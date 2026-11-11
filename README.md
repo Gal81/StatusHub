@@ -3,6 +3,8 @@
 Учебный full-stack проект: React + Vite + TypeScript и Node.js + Fastify.
 Без базы данных и дополнительных сервисов.
 
+Учебный план, задачи и прогресс: [docs/learning](docs/learning/README.md).
+
 ## Требования
 
 Node.js 22.18+ и npm. Для нового окружения рекомендуется актуальная LTS-версия
